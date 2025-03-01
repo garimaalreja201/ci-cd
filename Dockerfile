@@ -1,4 +1,4 @@
-#Dockerfile for python app
+#Dockerfile for python app code
 #This dockerifile is good example for python based applications
 FROM python:3.11-alpine
 LABEL maintainer="vijaygawate79@gmail.com"
